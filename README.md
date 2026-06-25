@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A882,100:6B4F2A&height=210&section=header&text=Yigit%20Unal&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Founder%20of%20Labyra%20%C2%B7%20indie%20hacker%20%C2%B7%20full-stack&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A882,100:6B4F2A&height=180&section=header&animation=fadeIn" width="100%" alt="header"/>
 
 ### Merhaba 👋 Ben Yiğit — Labyra'nın kurucusuyum
 
@@ -73,7 +73,7 @@ const yigit = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yigitunalresmi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=C4A882&icon_color=C4A882&text_color=9b9b9b&bg_color=0d1117" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yigitunalresmi&show_icons=true&hide_border=true&title_color=C4A882&icon_color=C4A882&text_color=9b9b9b&bg_color=0d1117" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitunalresmi&layout=compact&hide_border=true&title_color=C4A882&text_color=9b9b9b&bg_color=0d1117&langs_count=8" alt="top langs"/>
 
 <img src="https://streak-stats.demolab.com?user=yigitunalresmi&hide_border=true&background=0d1117&stroke=C4A882&ring=C4A882&fire=D97757&currCommitNumber=C4A882&sideNums=9b9b9b&sideLabels=9b9b9b&dates=6b6b6b&currStreakLabel=C4A882" alt="streak"/>
