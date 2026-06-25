@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A882,100:6B4F2A&height=220&section=header&text=Yi%C4%9Fit%20%C3%9Cnal&fontColor=FFFFFF&fontSize=58&fontAlignY=40&animation=fadeIn&desc=Labyra%20kurucusu%20%C2%B7%20indie%20hacker%20%C2%B7%20%C3%BCr%C3%BCn%20geli%C5%9Ftirici&descAlignY=62&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4A882,100:6B4F2A&height=210&section=header&text=Yigit%20Unal&fontColor=FFFFFF&fontSize=60&fontAlignY=38&animation=fadeIn&desc=Founder%20of%20Labyra%20%C2%B7%20indie%20hacker%20%C2%B7%20full-stack&descAlignY=60&descSize=18" width="100%" alt="header"/>
+
+### Merhaba 👋 Ben Yiğit — Labyra'nın kurucusuyum
 
 <a href="https://labyra.co">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C4A882&center=true&vCenter=true&width=680&lines=%C4%B0%C5%9F+yaz%C4%B1l%C4%B1m%C4%B1n%C4%B1n+%C3%B6n%C3%BCnde+de%C4%9Fil%2C+yan%C4%B1nda.;Fikirden+canl%C4%B1+%C3%BCr%C3%BCne+%E2%9A%A1;Karma%C5%9F%C4%B1k+i%C5%9Fleri+sade+yollara+%C3%A7eviriyorum.;Etiket+%C2%B7+ERP+%C2%B7+Otomasyon+%C2%B7+Web" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C4A882&center=true&vCenter=true&width=680&lines=Founder+%40+Labyra;From+idea+to+live+product+%E2%9A%A1;Label+%C2%B7+ERP+%C2%B7+Automation+%C2%B7+Web;Indie+hacker%2C+shipping+fast+%F0%9F%9A%80" alt="typing"/>
 </a>
 
 <br/>
