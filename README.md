@@ -76,8 +76,6 @@ const yigit = {
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=yigitunalresmi&show_icons=true&hide_border=true&title_color=C4A882&icon_color=C4A882&text_color=9b9b9b&bg_color=0d1117" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitunalresmi&layout=compact&hide_border=true&title_color=C4A882&text_color=9b9b9b&bg_color=0d1117&langs_count=8" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com?user=yigitunalresmi&hide_border=true&background=0d1117&stroke=C4A882&ring=C4A882&fire=D97757&currCommitNumber=C4A882&sideNums=9b9b9b&sideLabels=9b9b9b&dates=6b6b6b&currStreakLabel=C4A882" alt="streak"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yigitunalresmi&bg_color=0d1117&color=C4A882&line=C4A882&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%"/>
 
 </div>
