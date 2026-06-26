@@ -86,7 +86,7 @@ const yigit = {
 
 ### 🐍 Katkı yılanı
 
-<img src="https://raw.githubusercontent.com/yigitunalresmi/yigitunalresmi/output/github-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/yigitunalresmi/blog/output/github-snake-dark.svg" alt="snake animation"/>
 
 <br/>
 
